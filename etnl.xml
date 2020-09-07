@@ -1,0 +1,7 @@
+<Project Version="2" Name="etnl" FolderName="Packages">
+	<OutputDirectory>out</OutputDirectory>
+	<TemporaryOutputDirectory>out\_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\mrthompson83-etnl.xml</Package>
+	</Packages>
+</Project>

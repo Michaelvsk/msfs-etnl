@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport name="Rostock-Laage" ident="ETNL" lat="53.91827415685137" lon="12.27664046782317" alt="39.85765070095658" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00058491995105" applyFlatten="TRUE" isOnTIN="FALSE" starAirport="TRUE">
+		<TaxiName index="0" name=""/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>

@@ -1,0 +1,30 @@
+<AssetPackage Name="mrthompson83-etnl" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title/>
+		<Manufacturer/>
+		<Creator/>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\mrthompson83-etnl\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\mrthompson83-etnl</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="placeholder-name">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene</AssetDir>
+			<OutputDir>scenery\world\scenery</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
