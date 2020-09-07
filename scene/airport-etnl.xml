@@ -2,8 +2,15 @@
 <FSData version="9.0">
 	<Airport name="Rostock-Laage" ident="ETNL" lat="53.91827415685137" lon="12.27664046782317" alt="39.85765070095658" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00058491995105" applyFlatten="TRUE" isOnTIN="FALSE" starAirport="TRUE">
 		<TaxiName index="0" name=""/>
+		<Runway lat="53.91825678419166" lon="12.27133173501360" alt="47.98471565265208" heading="274.00000000000000" length="2520.00000000000000" width="45.00000000000000" patternAltitude="304.79998779296875" surface="{AE14A34B-FB53-44E1-B70F-96F01E163686}" transparent="FALSE" number="27" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="TRUE" threshold="TRUE" alternateThreshold="FALSE" fixedDistance="TRUE" alternateFixedDistance="FALSE" touchdown="TRUE" alternateTouchdown="TRUE" dashes="TRUE" ident="TRUE" leadingZeroIdent="TRUE" precision="TRUE" alternatePrecision="TRUE" edgePavement="TRUE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="MEDIUM" edge="MEDIUM" centerRed="TRUE"/>
+			<RunwayStart end="PRIMARY" lat="53.91888667374131" lon="12.27133173526806" alt="47.98767154470958" heading="180.00000000000000"/>
+			<RunwayStart end="SECONDARY" lat="53.91762689450865" lon="12.27133173475915" alt="47.98175969527044" heading="0.00000000000000"/>
+		</Runway>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
 </FSData>
+
