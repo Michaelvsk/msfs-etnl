@@ -1,2 +1,5 @@
 # ignore output dir
 out
+
+# ignore 3rd party imagery
+scene/cgl/aerial_images
