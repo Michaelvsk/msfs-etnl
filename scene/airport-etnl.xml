@@ -10,11 +10,11 @@
 			<Overrun end="PRIMARY" length="304.000000"/>
 			<Overrun end="SECONDARY" length="305.000000"/>
 			<ApproachLights end="PRIMARY" system="SALSF" strobes="10" endLights="FALSE" touchdown="FALSE" snapToGround="FALSE" reil="FALSE" offset="30.480000" spacing="30.480000" slope="0.000000"/>
-			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="70.000000" biasZ="900.000000" spacing="0.000000" pitch="0.000000"/>
-			<Vasi end="PRIMARY" side="RIGHT" type="PAPI4" biasX="70.000000" biasZ="900.000000" spacing="0.000000" pitch="0.000000"/>
-			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="70.000000" biasZ="900.000000" spacing="0.000000" pitch="0.000000"/>
-			<Vasi end="SECONDARY" side="RIGHT" type="PAPI4" biasX="70.000000" biasZ="900.000000" spacing="0.000000" pitch="0.000000"/>
-			<RunwayStart end="PRIMARY" lat="53.91872075804657" lon="12.27930282338678" alt="48.01906330045313" heading="-179.96261596679688"/>
+			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="36.000000" biasZ="1119.000000" spacing="0.000000" pitch="0.000000"/>
+			<Vasi end="PRIMARY" side="RIGHT" type="PAPI4" biasX="36.000000" biasZ="1119.000000" spacing="0.000000" pitch="0.000000"/>
+			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="36.000000" biasZ="1183.000000" spacing="0.000000" pitch="0.000000"/>
+			<Vasi end="SECONDARY" side="RIGHT" type="PAPI4" biasX="36.500000" biasZ="1183.000000" spacing="0.000000" pitch="0.000000"/>
+			<RunwayStart end="PRIMARY" lat="53.91872075804657" lon="12.27930282338678" alt="48.01906330045313" heading="180.03738403320313"/>
 			<RunwayStart end="SECONDARY" lat="53.91746097894901" lon="12.27930142915705" alt="48.01315141469240" heading="0.03741880133748"/>
 		</Runway>
 		<Aprons/>
