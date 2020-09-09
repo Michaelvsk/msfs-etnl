@@ -2,7 +2,7 @@
 <FSData version="9.0">
 	<Airport name="Rostock-Laage" ident="ETNL" lat="53.91827415685137" lon="12.27664046782317" alt="39.85765070095658" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00058491995105" applyFlatten="TRUE" isOnTIN="FALSE" starAirport="TRUE">
 		<TaxiName index="0" name=""/>
-		<Runway lat="53.91809086858486" lon="12.27930212626144" alt="48.01611046958715" heading="277.70767211914063" length="2519.51806640625000" width="45.00000000000000" patternAltitude="304.79998779296875" surface="{052FEFB1-11E3-4951-B5C4-D93CE253FD9E}" transparent="FALSE" number="27" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+		<Runway lat="53.91809086858486" lon="12.27930212626144" alt="48.01611046958715" heading="277.70767211914063" length="2519.51806640625000" width="45.00000000000000" patternAltitude="304.79998779296875" surface="{052FEFB1-11E3-4951-B5C4-D93CE253FD9E}" transparent="FALSE" number="27" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="FALSE" excludeVegetationAround="TRUE">
 			<RunwayDeformation alt="48.139519" ratio="0.000000"/>
 			<RunwayDeformation alt="48.082066" ratio="1.000000"/>
 			<Markings edges="TRUE" threshold="TRUE" alternateThreshold="FALSE" fixedDistance="TRUE" alternateFixedDistance="FALSE" touchdown="TRUE" alternateTouchdown="TRUE" dashes="TRUE" ident="TRUE" leadingZeroIdent="TRUE" precision="TRUE" alternatePrecision="TRUE" edgePavement="TRUE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
@@ -15,8 +15,8 @@
 			<Vasi end="PRIMARY" side="RIGHT" type="PAPI4" biasX="36.000000" biasZ="1119.000000" spacing="0.000000" pitch="0.000000"/>
 			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="36.000000" biasZ="1183.000000" spacing="0.000000" pitch="0.000000"/>
 			<Vasi end="SECONDARY" side="RIGHT" type="PAPI4" biasX="36.500000" biasZ="1183.000000" spacing="0.000000" pitch="0.000000"/>
-			<RunwayStart end="PRIMARY" lat="53.91872075804657" lon="12.27930282338678" alt="48.01906330045313" heading="180.03738403320313"/>
-			<RunwayStart end="SECONDARY" lat="53.91746097894901" lon="12.27930142915705" alt="48.01315141469240" heading="0.03741880133748"/>
+			<RunwayStart end="PRIMARY" lat="53.91667802108168" lon="12.29705724479105" alt="48.15647174511105" heading="277.70767211914063"/>
+			<RunwayStart end="SECONDARY" lat="53.91950690936488" lon="12.26155253051311" alt="48.00573326833546" heading="97.70767211914063"/>
 		</Runway>
 		<Aprons/>
 		<PaintedElements/>
