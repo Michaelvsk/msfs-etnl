@@ -9,7 +9,8 @@
 			<Lights center="MEDIUM" edge="MEDIUM" centerRed="TRUE"/>
 			<Overrun end="PRIMARY" length="304.000000"/>
 			<Overrun end="SECONDARY" length="305.000000"/>
-			<ApproachLights end="PRIMARY" system="SALSF" strobes="10" endLights="FALSE" touchdown="FALSE" snapToGround="FALSE" reil="FALSE" offset="30.480000" spacing="30.480000" slope="0.000000"/>
+			<ApproachLights end="PRIMARY" system="CALVERT" strobes="10" endLights="FALSE" touchdown="FALSE" snapToGround="TRUE" reil="FALSE" offset="31.000000" spacing="30.480000" slope="0.000000"/>
+			<ApproachLights end="SECONDARY" system="CALVERT" strobes="10" endLights="FALSE" touchdown="FALSE" snapToGround="TRUE" reil="FALSE" offset="31.000000" spacing="30.480000" slope="0.000000"/>
 			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="36.000000" biasZ="1119.000000" spacing="0.000000" pitch="0.000000"/>
 			<Vasi end="PRIMARY" side="RIGHT" type="PAPI4" biasX="36.000000" biasZ="1119.000000" spacing="0.000000" pitch="0.000000"/>
 			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="36.000000" biasZ="1183.000000" spacing="0.000000" pitch="0.000000"/>
