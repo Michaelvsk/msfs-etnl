@@ -18,14 +18,7 @@
 			<AssetDir>PackageDefinitions\mrthompson83-etnl\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\mrthompson83-etnl\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="aerial-imagery">
-			<Type>CGL</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>scene\cgl</AssetDir>
-			<OutputDir>cgl\</OutputDir>
-		</AssetGroup>
+
 		<AssetGroup Name="placeholder-name">
 			<Type>BGL</Type>
 			<Flags>
