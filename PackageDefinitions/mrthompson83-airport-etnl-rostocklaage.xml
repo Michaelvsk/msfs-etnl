@@ -18,14 +18,6 @@
 			<AssetDir>PackageDefinitions\mrthompson83-airport-etnl-rostocklaage\ContentInfo</AssetDir>
 			<OutputDir>ContentInfo\mrthompson83-airport-etnl-rostocklaage</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="aerial-imagery">
-			<Type>CGL</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>scene\cgl\</AssetDir>
-			<OutputDir>cgl\</OutputDir>
-		</AssetGroup>
 		<AssetGroup Name="airport">
 			<Type>BGL</Type>
 			<Flags>
