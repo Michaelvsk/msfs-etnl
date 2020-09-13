@@ -18,12 +18,7 @@
 			<AssetDir>PackageDefinitions\mrthompson83-airport-etnl-rostocklaage\ContentInfo</AssetDir>
 			<OutputDir>ContentInfo\mrthompson83-airport-etnl-rostocklaage</OutputDir>
 		</AssetGroup>
-<<<<<<< HEAD:PackageDefinitions/mrthompson83-airport-etnl-rostocklaage.xml
 		<AssetGroup Name="airport">
-=======
-
-		<AssetGroup Name="placeholder-name">
->>>>>>> 3b2bbcb... Remove aerial image (CGL) asset group:PackageDefinitions/mrthompson83-etnl.xml
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
