@@ -1,7 +1,7 @@
-<AssetPackage Name="mrthompson83-etnl" Version="0.1.0">
+<AssetPackage Name="mrthompson83-airport-etnl-rostocklaage" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
-		<Title/>
+		<Title>Airport Rostock-Laage (ETNL)</Title>
 		<Manufacturer/>
 		<Creator/>
 	</ItemSettings>
@@ -15,8 +15,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\mrthompson83-etnl\ContentInfo\</AssetDir>
-			<OutputDir>ContentInfo\mrthompson83-etnl\</OutputDir>
+			<AssetDir>PackageDefinitions\mrthompson83-airport-etnl-rostocklaage\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\mrthompson83-airport-etnl-rostocklaage</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="aerial-imagery">
 			<Type>CGL</Type>
