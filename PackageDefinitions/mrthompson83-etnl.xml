@@ -23,15 +23,15 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>scene\cgl</AssetDir>
+			<AssetDir>scene\cgl\</AssetDir>
 			<OutputDir>cgl\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="placeholder-name">
+		<AssetGroup Name="airport">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>scene\</AssetDir>
+			<AssetDir>scene\airport</AssetDir>
 			<OutputDir>scenery\world\scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
