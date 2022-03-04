@@ -1,3 +1,5 @@
+__Please note this repository is not maintained anymore__
+
 # Rostock-Laage Airport (ICAO: ETNL) for Microsoft Flight Simulator (WIP)
 
 This is an early work in progress of airport Rostock-Laage (ETNL) for the most recent MS Flight Simulator.
